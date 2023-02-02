@@ -5,9 +5,10 @@ A Full-Stack solution that enables users to securely upload and access their ima
 
 
 
-
+###Front Design
 ![Frontend Design](https://github.com/JosephBatchelor/Cloud-Photo-Management-System/blob/main/RDME/Frontend-Design.png)
 
+###System Design
 ![UML System Diagram](https://github.com/JosephBatchelor/Cloud-Photo-Management-System/blob/main/RDME/C-P-M-S%20UML%20diagram.png)
 
 
